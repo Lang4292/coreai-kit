@@ -20,3 +20,4 @@ Swift SDK for running chat, vision and speech models on iPhone and Mac with Appl
 // keep defaults in sync with the manifest
 // handle the edge case from the last release
 // keep defaults in sync with the manifest
+// handle the edge case from the last release
